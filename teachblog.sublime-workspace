@@ -1,0 +1,417 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"li",
+				"li\tTag"
+			],
+			[
+				"re",
+				"request"
+			],
+			[
+				"r",
+				"render"
+			],
+			[
+				"pos",
+				"PostForm"
+			],
+			[
+				"for",
+				"form"
+			],
+			[
+				"red",
+				"render"
+			],
+			[
+				"Po",
+				"PostForm"
+			],
+			[
+				"Post",
+				"PostForm"
+			],
+			[
+				"fo",
+				"from"
+			],
+			[
+				"text",
+				"text-align"
+			],
+			[
+				"box",
+				"box-shadow"
+			],
+			[
+				"p",
+				"padding"
+			],
+			[
+				"text-",
+				"text-shadow"
+			],
+			[
+				"st",
+				"style\tTag"
+			],
+			[
+				"bac",
+				"background"
+			],
+			[
+				"h",
+				"height"
+			],
+			[
+				"back",
+				"background-color"
+			],
+			[
+				"di",
+				"div\tTag"
+			],
+			[
+				"u",
+				"urls"
+			],
+			[
+				"pu",
+				"published_date"
+			],
+			[
+				"border",
+				"border-left"
+			],
+			[
+				"magin",
+				"margin-right"
+			],
+			[
+				"col",
+				"color"
+			],
+			[
+				"g",
+				"rgb()"
+			],
+			[
+				"font",
+				"font-size-adjust"
+			],
+			[
+				"d",
+				"div\tTag"
+			],
+			[
+				"l",
+				"li\tTag"
+			],
+			[
+				"U",
+				"UL\tTag"
+			],
+			[
+				"ti",
+				"title\tTag"
+			],
+			[
+				"haed",
+				"head\tTag"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 126.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/Users/NELLY ROLEX/Documents/learn_django/firstsite/firstsite/.gitignore",
+		"/C/Users/NELLY ROLEX/Documents/learn_django/firstsite/blog/admin.py",
+		"/C/Users/NELLY ROLEX/Documents/learn_django/firstsite/blog/models.py",
+		"/C/Users/NELLY ROLEX/Documents/learn_django/firstsite/firstsite/settings.py",
+		"/C/Users/NELLY ROLEX/Documents/learn_django/learn_django.sublime-project",
+		"/C/Users/NELLY ROLEX/Documents/learn_django/firstsite/manage.py",
+		"/C/Users/NELLY ROLEX/Documents/learn_django/firstsite/firstsite/urls.py",
+		"/C/Users/NELLY ROLEX/Documents/teachblog/myvteach/Scripts/django-admin.py",
+		"/C/Users/NELLY ROLEX/Documents/teachblog/mysite/settings.py",
+		"/C/Users/NELLY ROLEX/Documents/learn_django/firstsite/firstsite/wsgi.py",
+		"/C/Users/NELLY ROLEX/Documents/tryecommerce/blog/urls.py",
+		"/C/Users/NELLY ROLEX/Documents/tryecommerce/blog/static/css/blog.css",
+		"/C/Users/NELLY ROLEX/Documents/tryecommerce/blog/templates/blog/post_detail",
+		"/C/Users/NELLY ROLEX/Documents/tryecommerce/blog/templates/blog/base.html",
+		"/C/BLOG CSS FOR MY PROJCET/blog/blog/templates/blog/post_list.html",
+		"/C/Users/NELLY ROLEX/Documents/tryecommerce/blog/templates/blog/post_list.html",
+		"/C/Users/NELLY ROLEX/Documents/tryecommerce/blog/views.py",
+		"/C/Users/NELLY ROLEX/Documents/tryecommerce/mysite/urls.py",
+		"/C/Users/NELLY ROLEX/Documents/tryecommerce/blog/.gitignore",
+		"/C/Users/NELLY ROLEX/Documents/tryecommerce/blog/admin.py",
+		"/C/Users/NELLY ROLEX/Documents/tryecommerce/mysite/settings.py",
+		"/C/BLOG CSS FOR MY PROJCET/blog/blog/templates/blog/post_edit.html",
+		"/C/BLOG CSS FOR MY PROJCET/blog/blog/views.py",
+		"/C/BLOG CSS FOR MY PROJCET/blog/blog/urls.py",
+		"/C/BLOG CSS FOR MY PROJCET/blog/blog/tests.py",
+		"/C/BLOG CSS FOR MY PROJCET/blog/blog/models.py",
+		"/C/BLOG CSS FOR MY PROJCET/blog/blog/forms.py",
+		"/C/BLOG CSS FOR MY PROJCET/blog/blog/__init__.py",
+		"/C/BLOG CSS FOR MY PROJCET/blog/blog/admin.py",
+		"/C/BLOG CSS FOR MY PROJCET/blog/blog/apps.py",
+		"/C/BLOG CSS FOR MY PROJCET/blog/blog/static/css/blog.css",
+		"/C/BLOG CSS FOR MY PROJCET/blog/blog/templates/blog/base.html",
+		"/C/BLOG CSS FOR MY PROJCET/blog/blog/templates/blog/post_detail.html",
+		"/C/Users/NELLY ROLEX/Documents/tryecommerce/blog/models.py",
+		"/C/Users/WINDOWS PC/Downloads/Learn how to become a web developer _ Skillcrush_files/tutorials.css",
+		"/C/Users/WINDOWS PC/Downloads/Learn how to become a web developer _ Skillcrush_files/skill-lessons.css",
+		"/C/Program Files (x86)/VideoLAN/VLC/NEWS.txt",
+		"/C/Users/NELLY ROLEX/Documents/tryecommerce/.gitignore.txt",
+		"/C/Users/NELLY ROLEX/Documents/tryecommerce/mysite/wsgi.py",
+		"/C/Users/NELLY ROLEX/Documents/myenv/Scripts/django-admin.py",
+		"/C/Users/NELLY ROLEX/Documents/tryecommerce/manage.py",
+		"/C/Users/NELLY ROLEX/Documents/News/blog/.gitignore.gitignore",
+		"/C/Users/NELLY ROLEX/Documents/News/blog/__init__.py",
+		"/C/Users/NELLY ROLEX/Documents/News/blog/admin.py",
+		"/C/Users/NELLY ROLEX/Documents/News/blog/models.py",
+		"/C/Users/NELLY ROLEX/Documents/News/blog/apps.py",
+		"/C/Users/NELLY ROLEX/Documents/News/blog/tests.py",
+		"/C/Users/NELLY ROLEX/Documents/djangoboys/mysite/settings.py",
+		"/C/Users/NELLY ROLEX/Documents/djangoboys/mysite/urls.py",
+		"/C/Users/NELLY ROLEX/Documents/djangoboys/mysite/wsgi.py",
+		"/C/Users/NELLY ROLEX/Documents/News/blog/views.py",
+		"/C/Users/NELLY ROLEX/Documents/News/news/apps.py",
+		"/C/Users/NELLY ROLEX/Documents/News/mysite/__init__.py",
+		"/C/DJANGO BLOG TWO/tryecommerce/mysite/__init__.py",
+		"/C/DJANGO BLOG TWO/tryecommerce/blog/static/css/blog.css",
+		"/C/DJANGO BLOG TWO/tryecommerce/blog/templates/blog/post_list.html",
+		"/C/DJANGO BLOG TWO/tryecommerce/blog/templates/blog/post_edit.html",
+		"/C/DJANGO BLOG TWO/tryecommerce/blog/templates/blog/post_detail.html",
+		"/C/DJANGO BLOG TWO/tryecommerce/blog/templates/blog/base.html",
+		"/C/DJANGO BLOG TWO/tryecommerce/mysite/settings.py",
+		"/C/DJANGO BLOG TWO/tryecommerce/blog/models.py",
+		"/C/Users/NELLY ROLEX/Documents/News/manage.py",
+		"/C/Users/NELLY ROLEX/Documents/News/news/admin.py",
+		"/C/Users/NELLY ROLEX/Documents/News/mysite/wsgi.py",
+		"/C/Users/NELLY ROLEX/Documents/News/mysite/urls.py",
+		"/C/Users/NELLY ROLEX/Documents/News/mysite/settings.py",
+		"/C/Users/NELLY ROLEX/Documents/News/news/blog/admin.py",
+		"/C/DJANGO BLOG TWO/tryecommerce/blog/admin.py",
+		"/C/DJANGO BLOG TWO/tryecommerce/blog/forms.py",
+		"/C/DJANGO BLOG TWO/tryecommerce/blog/urls.py",
+		"/C/DJANGO BLOG TWO/tryecommerce/blog/tests.py",
+		"/C/DJANGO BLOG TWO/tryecommerce/blog/views.py",
+		"/C/Users/NELLY ROLEX/Documents/News/news/blog/views.py",
+		"/C/Users/NELLY ROLEX/Documents/News/news/blog/tests.py",
+		"/C/BLOG CSS FOR MY PROJCET/blog/mysite/settings.py",
+		"/C/Users/NELLY ROLEX/Documents/News/news/blog/models.py",
+		"/C/Users/WINDOWS PC/Downloads/csc400 level courses/COMP GRAPHICS/Chapter 1. Introduction to Computer Animation_files/Chapter 1. Introduction to Computer Animation_files/Chapter 1. Introduction to Computer Animation_files/src.html",
+		"/C/Users/WINDOWS PC/Downloads/csc400 level courses/COMP GRAPHICS/Chapter 1. Introduction to Computer Animation_files/Chapter 1. Introduction to Computer Animation_files/Chapter 1. Introduction to Computer Animation_files/Deploy! · Django Girls Tutorial.html",
+		"/C/Users/NELLY ROLEX/Documents/News/news/blog/.gitignore",
+		"/C/Users/NELLY ROLEX/Documents/News/news/New Text Document.txt",
+		"/C/Users/NELLY ROLEX/Documents/News/news/news/settings.py",
+		"/C/DJANGO BLOG TWO/tryecommerce/blog/__init__.py",
+		"/C/Users/NELLY ROLEX/Documents/News/news/blog/__init__.py",
+		"/C/DJANGO BLOG TWO/tryecommerce/blog/apps.py",
+		"/C/Users/NELLY ROLEX/Documents/News/news/blog/apps.py",
+		"/C/Users/WINDOWS PC/Desktop/CSS LEARNING/web 1.sublime-project",
+		"/C/Users/WINDOWS PC/Desktop/first assigment in py/TUPLE Buffet assignment.py",
+		"/C/DJANGO BLOG TWO/tryecommerce/blog/static/blog.css",
+		"/C/BLOG CSS FOR MY PROJCET/blog.css",
+		"/C/Users/NELLY ROLEX/Documents/djangoboys/blog/static/css/blog.css",
+		"/C/Users/NELLY ROLEX/Documents/djangoboys/blog/templates/blog/post_list.html",
+		"/C/Users/NELLY ROLEX/Documents/djangoboys/blog/templates/blog/base.html",
+		"/C/DJANGO BLOG TWO/tryecommerce/manage.py",
+		"/C/Users/NELLY ROLEX/Documents/djangoboys/mysite/.gitignore",
+		"/C/DJANGO BLOG TWO/djangoboys/blog/static/css/blog.css",
+		"/C/DJANGO BLOG TWO/djangoboys/blog/templates/blog/post_edit.html",
+		"/C/DJANGO BLOG TWO/djangoboys/blog/templates/blog/base.html",
+		"/C/DJANGO BLOG TWO/djangoboys/blog/templates/blog/post_list.html",
+		"/C/DJANGO BLOG TWO/djangoboys/blog/forms.py",
+		"/C/DJANGO BLOG TWO/djangoboys/blog/templates/blog/post_detail.html",
+		"/C/DJANGO BLOG TWO/djangoboys/blog/static/blog.css",
+		"/C/DJANGO BLOG TWO/djangoboys/blog/views.py",
+		"/C/DJANGO BLOG TWO/djangoboys/blog/urls.py",
+		"/C/DJANGO BLOG TWO/djangoboys/mysite/urls.py",
+		"/C/DJANGO BLOG TWO/djangoboys/blog/models.py",
+		"/C/Users/NELLY ROLEX/Documents/djangoboys/blog/views.py",
+		"/C/Users/WINDOWS PC/Desktop/CSS LEARNING/css aisotech.html",
+		"/C/Users/WINDOWS PC/Desktop/CSS LEARNING/color.html",
+		"/C/Users/WINDOWS PC/Desktop/CSS LEARNING/css_no3.html",
+		"/C/Users/WINDOWS PC/Desktop/CSS LEARNING/css2.html",
+		"/C/DJANGO BLOG TWO/djangoboys/blog/admin.py",
+		"/C/DJANGO BLOG TWO/djangoboys/blog/templates/blog/forms.py",
+		"/C/Users/NELLY ROLEX/Documents/djangoboys/mysite/__init__.py",
+		"/C/Users/WINDOWS PC/Downloads/csc400 level courses/COMP GRAPHICS/Chapter 1. Introduction to Computer Animation_files/Chapter 1. Introduction to Computer Animation_files/Chapter 1. Introduction to Computer Animation_files/CHA4TechniquesToAidMotionSpecific.html",
+		"/C/Users/WINDOWS PC/Desktop/DFESRBFHEBR,QRKFRRH3.txt",
+		"/C/Users/NELLY ROLEX/Documents/djangoboys/blog/__init__.py",
+		"/C/Users/NELLY ROLEX/Documents/djangoboys/blog/admin.py",
+		"/C/Users/NELLY ROLEX/Documents/djangoboys/blog/apps.py",
+		"/C/Users/WINDOWS PC/Desktop/my py class note/test preparation cgpa calaulator.py",
+		"/C/BLOG CSS FOR MY PROJCET/blog/blog/migrations/__init__.py",
+		"/C/Users/NELLY ROLEX/Documents/djangoboys/blog/templates/blog/post_edit.html",
+		"/C/Users/NELLY ROLEX/Documents/djangoboys/blog/templates/blog/post_detail.html",
+		"/C/Users/NELLY ROLEX/Documents/djangoboys/blog/forms.py",
+		"/C/Users/NELLY ROLEX/Documents/djangoboys/blog/models.py",
+		"/C/Users/NELLY ROLEX/Documents/djangoboys/blog/tests.py",
+		"/C/Users/NELLY ROLEX/Documents/djangoboys/blog/urls.py",
+		"/C/Users/WINDOWS PC/Desktop/CSS LEARNING/text_shadow.html",
+		"/C/Users/WINDOWS PC/Desktop/CSS LEARNING/box.html"
+	],
+	"find":
+	{
+		"height": 23.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"Django Girls Blog",
+			"import",
+			"from blog.models import Post",
+			"settings"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"for"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 23.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "teachblog.sublime-project",
+	"replace":
+	{
+		"height": 42.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 150.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
